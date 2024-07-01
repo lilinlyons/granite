@@ -1,0 +1,2783 @@
+{
+    "widgets": [
+        {
+            "id": "TIMESERIES",
+            "data": {
+                "default": {
+                    "timelineData": [
+                        {
+                            "time": "1711756800",
+                            "formattedTime": "Mar 30, 2024",
+                            "formattedAxisTime": "Mar 30",
+                            "value": [
+                                0
+                            ],
+                            "hasData": [
+                                false
+                            ],
+                            "formattedValue": [
+                                "0"
+                            ]
+                        },
+                        {
+                            "time": "1711843200",
+                            "formattedTime": "Mar 31, 2024",
+                            "formattedAxisTime": "Mar 31",
+                            "value": [
+                                13
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "13"
+                            ]
+                        },
+                        {
+                            "time": "1711929600",
+                            "formattedTime": "Apr 1, 2024",
+                            "formattedAxisTime": "Apr 1",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1712016000",
+                            "formattedTime": "Apr 2, 2024",
+                            "formattedAxisTime": "Apr 2",
+                            "value": [
+                                29
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "29"
+                            ]
+                        },
+                        {
+                            "time": "1712102400",
+                            "formattedTime": "Apr 3, 2024",
+                            "formattedAxisTime": "Apr 3",
+                            "value": [
+                                27
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ]
+                        },
+                        {
+                            "time": "1712188800",
+                            "formattedTime": "Apr 4, 2024",
+                            "formattedAxisTime": "Apr 4",
+                            "value": [
+                                27
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ]
+                        },
+                        {
+                            "time": "1712275200",
+                            "formattedTime": "Apr 5, 2024",
+                            "formattedAxisTime": "Apr 5",
+                            "value": [
+                                27
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ]
+                        },
+                        {
+                            "time": "1712361600",
+                            "formattedTime": "Apr 6, 2024",
+                            "formattedAxisTime": "Apr 6",
+                            "value": [
+                                0
+                            ],
+                            "hasData": [
+                                false
+                            ],
+                            "formattedValue": [
+                                "0"
+                            ]
+                        },
+                        {
+                            "time": "1712448000",
+                            "formattedTime": "Apr 7, 2024",
+                            "formattedAxisTime": "Apr 7",
+                            "value": [
+                                18
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "18"
+                            ]
+                        },
+                        {
+                            "time": "1712534400",
+                            "formattedTime": "Apr 8, 2024",
+                            "formattedAxisTime": "Apr 8",
+                            "value": [
+                                26
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "26"
+                            ]
+                        },
+                        {
+                            "time": "1712620800",
+                            "formattedTime": "Apr 9, 2024",
+                            "formattedAxisTime": "Apr 9",
+                            "value": [
+                                28
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ]
+                        },
+                        {
+                            "time": "1712707200",
+                            "formattedTime": "Apr 10, 2024",
+                            "formattedAxisTime": "Apr 10",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1712793600",
+                            "formattedTime": "Apr 11, 2024",
+                            "formattedAxisTime": "Apr 11",
+                            "value": [
+                                26
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "26"
+                            ]
+                        },
+                        {
+                            "time": "1712880000",
+                            "formattedTime": "Apr 12, 2024",
+                            "formattedAxisTime": "Apr 12",
+                            "value": [
+                                25
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "25"
+                            ]
+                        },
+                        {
+                            "time": "1712966400",
+                            "formattedTime": "Apr 13, 2024",
+                            "formattedAxisTime": "Apr 13",
+                            "value": [
+                                20
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "20"
+                            ]
+                        },
+                        {
+                            "time": "1713052800",
+                            "formattedTime": "Apr 14, 2024",
+                            "formattedAxisTime": "Apr 14",
+                            "value": [
+                                11
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "11"
+                            ]
+                        },
+                        {
+                            "time": "1713139200",
+                            "formattedTime": "Apr 15, 2024",
+                            "formattedAxisTime": "Apr 15",
+                            "value": [
+                                29
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "29"
+                            ]
+                        },
+                        {
+                            "time": "1713225600",
+                            "formattedTime": "Apr 16, 2024",
+                            "formattedAxisTime": "Apr 16",
+                            "value": [
+                                29
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "29"
+                            ]
+                        },
+                        {
+                            "time": "1713312000",
+                            "formattedTime": "Apr 17, 2024",
+                            "formattedAxisTime": "Apr 17",
+                            "value": [
+                                40
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "40"
+                            ]
+                        },
+                        {
+                            "time": "1713398400",
+                            "formattedTime": "Apr 18, 2024",
+                            "formattedAxisTime": "Apr 18",
+                            "value": [
+                                36
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "36"
+                            ]
+                        },
+                        {
+                            "time": "1713484800",
+                            "formattedTime": "Apr 19, 2024",
+                            "formattedAxisTime": "Apr 19",
+                            "value": [
+                                28
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ]
+                        },
+                        {
+                            "time": "1713571200",
+                            "formattedTime": "Apr 20, 2024",
+                            "formattedAxisTime": "Apr 20",
+                            "value": [
+                                13
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "13"
+                            ]
+                        },
+                        {
+                            "time": "1713657600",
+                            "formattedTime": "Apr 21, 2024",
+                            "formattedAxisTime": "Apr 21",
+                            "value": [
+                                9
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "9"
+                            ]
+                        },
+                        {
+                            "time": "1713744000",
+                            "formattedTime": "Apr 22, 2024",
+                            "formattedAxisTime": "Apr 22",
+                            "value": [
+                                38
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ]
+                        },
+                        {
+                            "time": "1713830400",
+                            "formattedTime": "Apr 23, 2024",
+                            "formattedAxisTime": "Apr 23",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1713916800",
+                            "formattedTime": "Apr 24, 2024",
+                            "formattedAxisTime": "Apr 24",
+                            "value": [
+                                38
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ]
+                        },
+                        {
+                            "time": "1714003200",
+                            "formattedTime": "Apr 25, 2024",
+                            "formattedAxisTime": "Apr 25",
+                            "value": [
+                                49
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "49"
+                            ]
+                        },
+                        {
+                            "time": "1714089600",
+                            "formattedTime": "Apr 26, 2024",
+                            "formattedAxisTime": "Apr 26",
+                            "value": [
+                                38
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ]
+                        },
+                        {
+                            "time": "1714176000",
+                            "formattedTime": "Apr 27, 2024",
+                            "formattedAxisTime": "Apr 27",
+                            "value": [
+                                12
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "12"
+                            ]
+                        },
+                        {
+                            "time": "1714262400",
+                            "formattedTime": "Apr 28, 2024",
+                            "formattedAxisTime": "Apr 28",
+                            "value": [
+                                19
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "19"
+                            ]
+                        },
+                        {
+                            "time": "1714348800",
+                            "formattedTime": "Apr 29, 2024",
+                            "formattedAxisTime": "Apr 29",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1714435200",
+                            "formattedTime": "Apr 30, 2024",
+                            "formattedAxisTime": "Apr 30",
+                            "value": [
+                                34
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ]
+                        },
+                        {
+                            "time": "1714521600",
+                            "formattedTime": "May 1, 2024",
+                            "formattedAxisTime": "May 1",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1714608000",
+                            "formattedTime": "May 2, 2024",
+                            "formattedAxisTime": "May 2",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1714694400",
+                            "formattedTime": "May 3, 2024",
+                            "formattedAxisTime": "May 3",
+                            "value": [
+                                26
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "26"
+                            ]
+                        },
+                        {
+                            "time": "1714780800",
+                            "formattedTime": "May 4, 2024",
+                            "formattedAxisTime": "May 4",
+                            "value": [
+                                14
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "14"
+                            ]
+                        },
+                        {
+                            "time": "1714867200",
+                            "formattedTime": "May 5, 2024",
+                            "formattedAxisTime": "May 5",
+                            "value": [
+                                10
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "10"
+                            ]
+                        },
+                        {
+                            "time": "1714953600",
+                            "formattedTime": "May 6, 2024",
+                            "formattedAxisTime": "May 6",
+                            "value": [
+                                33
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "33"
+                            ]
+                        },
+                        {
+                            "time": "1715040000",
+                            "formattedTime": "May 7, 2024",
+                            "formattedAxisTime": "May 7",
+                            "value": [
+                                34
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ]
+                        },
+                        {
+                            "time": "1715126400",
+                            "formattedTime": "May 8, 2024",
+                            "formattedAxisTime": "May 8",
+                            "value": [
+                                28
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ]
+                        },
+                        {
+                            "time": "1715212800",
+                            "formattedTime": "May 9, 2024",
+                            "formattedAxisTime": "May 9",
+                            "value": [
+                                28
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ]
+                        },
+                        {
+                            "time": "1715299200",
+                            "formattedTime": "May 10, 2024",
+                            "formattedAxisTime": "May 10",
+                            "value": [
+                                23
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "23"
+                            ]
+                        },
+                        {
+                            "time": "1715385600",
+                            "formattedTime": "May 11, 2024",
+                            "formattedAxisTime": "May 11",
+                            "value": [
+                                14
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "14"
+                            ]
+                        },
+                        {
+                            "time": "1715472000",
+                            "formattedTime": "May 12, 2024",
+                            "formattedAxisTime": "May 12",
+                            "value": [
+                                15
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "time": "1715558400",
+                            "formattedTime": "May 13, 2024",
+                            "formattedAxisTime": "May 13",
+                            "value": [
+                                29
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "29"
+                            ]
+                        },
+                        {
+                            "time": "1715644800",
+                            "formattedTime": "May 14, 2024",
+                            "formattedAxisTime": "May 14",
+                            "value": [
+                                34
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ]
+                        },
+                        {
+                            "time": "1715731200",
+                            "formattedTime": "May 15, 2024",
+                            "formattedAxisTime": "May 15",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1715817600",
+                            "formattedTime": "May 16, 2024",
+                            "formattedAxisTime": "May 16",
+                            "value": [
+                                26
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "26"
+                            ]
+                        },
+                        {
+                            "time": "1715904000",
+                            "formattedTime": "May 17, 2024",
+                            "formattedAxisTime": "May 17",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1715990400",
+                            "formattedTime": "May 18, 2024",
+                            "formattedAxisTime": "May 18",
+                            "value": [
+                                9
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "9"
+                            ]
+                        },
+                        {
+                            "time": "1716076800",
+                            "formattedTime": "May 19, 2024",
+                            "formattedAxisTime": "May 19",
+                            "value": [
+                                10
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "10"
+                            ]
+                        },
+                        {
+                            "time": "1716163200",
+                            "formattedTime": "May 20, 2024",
+                            "formattedAxisTime": "May 20",
+                            "value": [
+                                28
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ]
+                        },
+                        {
+                            "time": "1716249600",
+                            "formattedTime": "May 21, 2024",
+                            "formattedAxisTime": "May 21",
+                            "value": [
+                                27
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ]
+                        },
+                        {
+                            "time": "1716336000",
+                            "formattedTime": "May 22, 2024",
+                            "formattedAxisTime": "May 22",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1716422400",
+                            "formattedTime": "May 23, 2024",
+                            "formattedAxisTime": "May 23",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1716508800",
+                            "formattedTime": "May 24, 2024",
+                            "formattedAxisTime": "May 24",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1716595200",
+                            "formattedTime": "May 25, 2024",
+                            "formattedAxisTime": "May 25",
+                            "value": [
+                                12
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "12"
+                            ]
+                        },
+                        {
+                            "time": "1716681600",
+                            "formattedTime": "May 26, 2024",
+                            "formattedAxisTime": "May 26",
+                            "value": [
+                                11
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "11"
+                            ]
+                        },
+                        {
+                            "time": "1716768000",
+                            "formattedTime": "May 27, 2024",
+                            "formattedAxisTime": "May 27",
+                            "value": [
+                                12
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "12"
+                            ]
+                        },
+                        {
+                            "time": "1716854400",
+                            "formattedTime": "May 28, 2024",
+                            "formattedAxisTime": "May 28",
+                            "value": [
+                                43
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "43"
+                            ]
+                        },
+                        {
+                            "time": "1716940800",
+                            "formattedTime": "May 29, 2024",
+                            "formattedAxisTime": "May 29",
+                            "value": [
+                                100
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "100"
+                            ]
+                        },
+                        {
+                            "time": "1717027200",
+                            "formattedTime": "May 30, 2024",
+                            "formattedAxisTime": "May 30",
+                            "value": [
+                                78
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "78"
+                            ]
+                        },
+                        {
+                            "time": "1717113600",
+                            "formattedTime": "May 31, 2024",
+                            "formattedAxisTime": "May 31",
+                            "value": [
+                                51
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "51"
+                            ]
+                        },
+                        {
+                            "time": "1717200000",
+                            "formattedTime": "Jun 1, 2024",
+                            "formattedAxisTime": "Jun 1",
+                            "value": [
+                                16
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "16"
+                            ]
+                        },
+                        {
+                            "time": "1717286400",
+                            "formattedTime": "Jun 2, 2024",
+                            "formattedAxisTime": "Jun 2",
+                            "value": [
+                                14
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "14"
+                            ]
+                        },
+                        {
+                            "time": "1717372800",
+                            "formattedTime": "Jun 3, 2024",
+                            "formattedAxisTime": "Jun 3",
+                            "value": [
+                                48
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "48"
+                            ]
+                        },
+                        {
+                            "time": "1717459200",
+                            "formattedTime": "Jun 4, 2024",
+                            "formattedAxisTime": "Jun 4",
+                            "value": [
+                                41
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "41"
+                            ]
+                        },
+                        {
+                            "time": "1717545600",
+                            "formattedTime": "Jun 5, 2024",
+                            "formattedAxisTime": "Jun 5",
+                            "value": [
+                                52
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "52"
+                            ]
+                        },
+                        {
+                            "time": "1717632000",
+                            "formattedTime": "Jun 6, 2024",
+                            "formattedAxisTime": "Jun 6",
+                            "value": [
+                                48
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "48"
+                            ]
+                        },
+                        {
+                            "time": "1717718400",
+                            "formattedTime": "Jun 7, 2024",
+                            "formattedAxisTime": "Jun 7",
+                            "value": [
+                                45
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "45"
+                            ]
+                        },
+                        {
+                            "time": "1717804800",
+                            "formattedTime": "Jun 8, 2024",
+                            "formattedAxisTime": "Jun 8",
+                            "value": [
+                                22
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "22"
+                            ]
+                        },
+                        {
+                            "time": "1717891200",
+                            "formattedTime": "Jun 9, 2024",
+                            "formattedAxisTime": "Jun 9",
+                            "value": [
+                                15
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "time": "1717977600",
+                            "formattedTime": "Jun 10, 2024",
+                            "formattedAxisTime": "Jun 10",
+                            "value": [
+                                37
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "37"
+                            ]
+                        },
+                        {
+                            "time": "1718064000",
+                            "formattedTime": "Jun 11, 2024",
+                            "formattedAxisTime": "Jun 11",
+                            "value": [
+                                41
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "41"
+                            ]
+                        },
+                        {
+                            "time": "1718150400",
+                            "formattedTime": "Jun 12, 2024",
+                            "formattedAxisTime": "Jun 12",
+                            "value": [
+                                41
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "41"
+                            ]
+                        },
+                        {
+                            "time": "1718236800",
+                            "formattedTime": "Jun 13, 2024",
+                            "formattedAxisTime": "Jun 13",
+                            "value": [
+                                41
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "41"
+                            ]
+                        },
+                        {
+                            "time": "1718323200",
+                            "formattedTime": "Jun 14, 2024",
+                            "formattedAxisTime": "Jun 14",
+                            "value": [
+                                49
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "49"
+                            ]
+                        },
+                        {
+                            "time": "1718409600",
+                            "formattedTime": "Jun 15, 2024",
+                            "formattedAxisTime": "Jun 15",
+                            "value": [
+                                25
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "25"
+                            ]
+                        },
+                        {
+                            "time": "1718496000",
+                            "formattedTime": "Jun 16, 2024",
+                            "formattedAxisTime": "Jun 16",
+                            "value": [
+                                13
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "13"
+                            ]
+                        },
+                        {
+                            "time": "1718582400",
+                            "formattedTime": "Jun 17, 2024",
+                            "formattedAxisTime": "Jun 17",
+                            "value": [
+                                38
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ]
+                        },
+                        {
+                            "time": "1718668800",
+                            "formattedTime": "Jun 18, 2024",
+                            "formattedAxisTime": "Jun 18",
+                            "value": [
+                                34
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ]
+                        },
+                        {
+                            "time": "1718755200",
+                            "formattedTime": "Jun 19, 2024",
+                            "formattedAxisTime": "Jun 19",
+                            "value": [
+                                21
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "21"
+                            ]
+                        },
+                        {
+                            "time": "1718841600",
+                            "formattedTime": "Jun 20, 2024",
+                            "formattedAxisTime": "Jun 20",
+                            "value": [
+                                32
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ]
+                        },
+                        {
+                            "time": "1718928000",
+                            "formattedTime": "Jun 21, 2024",
+                            "formattedAxisTime": "Jun 21",
+                            "value": [
+                                34
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ]
+                        },
+                        {
+                            "time": "1719014400",
+                            "formattedTime": "Jun 22, 2024",
+                            "formattedAxisTime": "Jun 22",
+                            "value": [
+                                14
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "14"
+                            ]
+                        },
+                        {
+                            "time": "1719100800",
+                            "formattedTime": "Jun 23, 2024",
+                            "formattedAxisTime": "Jun 23",
+                            "value": [
+                                13
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "13"
+                            ]
+                        },
+                        {
+                            "time": "1719187200",
+                            "formattedTime": "Jun 24, 2024",
+                            "formattedAxisTime": "Jun 24",
+                            "value": [
+                                35
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "35"
+                            ]
+                        },
+                        {
+                            "time": "1719273600",
+                            "formattedTime": "Jun 25, 2024",
+                            "formattedAxisTime": "Jun 25",
+                            "value": [
+                                33
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "33"
+                            ]
+                        },
+                        {
+                            "time": "1719360000",
+                            "formattedTime": "Jun 26, 2024",
+                            "formattedAxisTime": "Jun 26",
+                            "value": [
+                                38
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ]
+                        },
+                        {
+                            "time": "1719446400",
+                            "formattedTime": "Jun 27, 2024",
+                            "formattedAxisTime": "Jun 27",
+                            "value": [
+                                35
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "35"
+                            ]
+                        },
+                        {
+                            "time": "1719532800",
+                            "formattedTime": "Jun 28, 2024",
+                            "formattedAxisTime": "Jun 28",
+                            "value": [
+                                31
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ]
+                        },
+                        {
+                            "time": "1719619200",
+                            "formattedTime": "Jun 29, 2024",
+                            "formattedAxisTime": "Jun 29",
+                            "value": [
+                                14
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "14"
+                            ]
+                        },
+                        {
+                            "time": "1719705600",
+                            "formattedTime": "Jun 30, 2024",
+                            "formattedAxisTime": "Jun 30",
+                            "value": [
+                                12
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "12"
+                            ],
+                            "isPartial": true
+                        }
+                    ],
+                    "averages": []
+                }
+            },
+            "title": "Interest over time",
+            "type": "fe_line_chart"
+        },
+        {
+            "id": "GEO_MAP",
+            "data": {
+                "default": {
+                    "geoMapData": [
+                        {
+                            "geoCode": "US-AK",
+                            "geoName": "Alaska",
+                            "value": [
+                                100
+                            ],
+                            "formattedValue": [
+                                "100"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-VT",
+                            "geoName": "Vermont",
+                            "value": [
+                                58
+                            ],
+                            "formattedValue": [
+                                "58"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-IL",
+                            "geoName": "Illinois",
+                            "value": [
+                                57
+                            ],
+                            "formattedValue": [
+                                "57"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-TX",
+                            "geoName": "Texas",
+                            "value": [
+                                57
+                            ],
+                            "formattedValue": [
+                                "57"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-HI",
+                            "geoName": "Hawaii",
+                            "value": [
+                                55
+                            ],
+                            "formattedValue": [
+                                "55"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NJ",
+                            "geoName": "New Jersey",
+                            "value": [
+                                48
+                            ],
+                            "formattedValue": [
+                                "48"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-CO",
+                            "geoName": "Colorado",
+                            "value": [
+                                47
+                            ],
+                            "formattedValue": [
+                                "47"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-FL",
+                            "geoName": "Florida",
+                            "value": [
+                                47
+                            ],
+                            "formattedValue": [
+                                "47"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MA",
+                            "geoName": "Massachusetts",
+                            "value": [
+                                45
+                            ],
+                            "formattedValue": [
+                                "45"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NC",
+                            "geoName": "North Carolina",
+                            "value": [
+                                45
+                            ],
+                            "formattedValue": [
+                                "45"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-VA",
+                            "geoName": "Virginia",
+                            "value": [
+                                43
+                            ],
+                            "formattedValue": [
+                                "43"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NY",
+                            "geoName": "New York",
+                            "value": [
+                                42
+                            ],
+                            "formattedValue": [
+                                "42"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MD",
+                            "geoName": "Maryland",
+                            "value": [
+                                41
+                            ],
+                            "formattedValue": [
+                                "41"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MS",
+                            "geoName": "Mississippi",
+                            "value": [
+                                40
+                            ],
+                            "formattedValue": [
+                                "40"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-AL",
+                            "geoName": "Alabama",
+                            "value": [
+                                40
+                            ],
+                            "formattedValue": [
+                                "40"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-CA",
+                            "geoName": "California",
+                            "value": [
+                                39
+                            ],
+                            "formattedValue": [
+                                "39"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-PA",
+                            "geoName": "Pennsylvania",
+                            "value": [
+                                39
+                            ],
+                            "formattedValue": [
+                                "39"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-OK",
+                            "geoName": "Oklahoma",
+                            "value": [
+                                38
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-CT",
+                            "geoName": "Connecticut",
+                            "value": [
+                                38
+                            ],
+                            "formattedValue": [
+                                "38"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-AZ",
+                            "geoName": "Arizona",
+                            "value": [
+                                37
+                            ],
+                            "formattedValue": [
+                                "37"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-IA",
+                            "geoName": "Iowa",
+                            "value": [
+                                34
+                            ],
+                            "formattedValue": [
+                                "34"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NV",
+                            "geoName": "Nevada",
+                            "value": [
+                                33
+                            ],
+                            "formattedValue": [
+                                "33"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-GA",
+                            "geoName": "Georgia",
+                            "value": [
+                                32
+                            ],
+                            "formattedValue": [
+                                "32"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-SC",
+                            "geoName": "South Carolina",
+                            "value": [
+                                31
+                            ],
+                            "formattedValue": [
+                                "31"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-OH",
+                            "geoName": "Ohio",
+                            "value": [
+                                30
+                            ],
+                            "formattedValue": [
+                                "30"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-TN",
+                            "geoName": "Tennessee",
+                            "value": [
+                                30
+                            ],
+                            "formattedValue": [
+                                "30"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-WA",
+                            "geoName": "Washington",
+                            "value": [
+                                29
+                            ],
+                            "formattedValue": [
+                                "29"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-OR",
+                            "geoName": "Oregon",
+                            "value": [
+                                28
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-WI",
+                            "geoName": "Wisconsin",
+                            "value": [
+                                28
+                            ],
+                            "formattedValue": [
+                                "28"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NE",
+                            "geoName": "Nebraska",
+                            "value": [
+                                27
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MI",
+                            "geoName": "Michigan",
+                            "value": [
+                                27
+                            ],
+                            "formattedValue": [
+                                "27"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-ID",
+                            "geoName": "Idaho",
+                            "value": [
+                                26
+                            ],
+                            "formattedValue": [
+                                "26"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-AR",
+                            "geoName": "Arkansas",
+                            "value": [
+                                24
+                            ],
+                            "formattedValue": [
+                                "24"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MN",
+                            "geoName": "Minnesota",
+                            "value": [
+                                22
+                            ],
+                            "formattedValue": [
+                                "22"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MO",
+                            "geoName": "Missouri",
+                            "value": [
+                                20
+                            ],
+                            "formattedValue": [
+                                "20"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-KY",
+                            "geoName": "Kentucky",
+                            "value": [
+                                19
+                            ],
+                            "formattedValue": [
+                                "19"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-UT",
+                            "geoName": "Utah",
+                            "value": [
+                                19
+                            ],
+                            "formattedValue": [
+                                "19"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-IN",
+                            "geoName": "Indiana",
+                            "value": [
+                                19
+                            ],
+                            "formattedValue": [
+                                "19"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-LA",
+                            "geoName": "Louisiana",
+                            "value": [
+                                16
+                            ],
+                            "formattedValue": [
+                                "16"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-KS",
+                            "geoName": "Kansas",
+                            "value": [
+                                15
+                            ],
+                            "formattedValue": [
+                                "15"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-DE",
+                            "geoName": "Delaware",
+                            "value": [
+                                5
+                            ],
+                            "formattedValue": [
+                                "5"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-DC",
+                            "geoName": "District of Columbia",
+                            "value": [
+                                5
+                            ],
+                            "formattedValue": [
+                                "5"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-RI",
+                            "geoName": "Rhode Island",
+                            "value": [
+                                5
+                            ],
+                            "formattedValue": [
+                                "5"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NM",
+                            "geoName": "New Mexico",
+                            "value": [
+                                4
+                            ],
+                            "formattedValue": [
+                                "4"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-ME",
+                            "geoName": "Maine",
+                            "value": [
+                                4
+                            ],
+                            "formattedValue": [
+                                "4"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-NH",
+                            "geoName": "New Hampshire",
+                            "value": [
+                                4
+                            ],
+                            "formattedValue": [
+                                "4"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-WV",
+                            "geoName": "West Virginia",
+                            "value": [
+                                3
+                            ],
+                            "formattedValue": [
+                                "3"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-ND",
+                            "geoName": "North Dakota",
+                            "value": [
+                                3
+                            ],
+                            "formattedValue": [
+                                "3"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-SD",
+                            "geoName": "South Dakota",
+                            "value": [
+                                2
+                            ],
+                            "formattedValue": [
+                                "2"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-MT",
+                            "geoName": "Montana",
+                            "value": [
+                                2
+                            ],
+                            "formattedValue": [
+                                "2"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "US-WY",
+                            "geoName": "Wyoming",
+                            "value": [
+                                0
+                            ],
+                            "formattedValue": [
+                                ""
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                false
+                            ]
+                        }
+                    ]
+                }
+            },
+            "title": "Interest by subregion",
+            "type": "fe_geo_chart_explore"
+        },
+        {
+            "id": "RELATED_QUERIES",
+            "data": {
+                "default": {
+                    "rankedList": [
+                        {
+                            "rankedKeyword": [
+                                {
+                                    "query": "stock aal",
+                                    "value": 100,
+                                    "formattedValue": "100",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=stock+aal&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aal stock price",
+                                    "value": 30,
+                                    "formattedValue": "30",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=aal+stock+price&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "ccl",
+                                    "value": 8,
+                                    "formattedValue": "8",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=ccl&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nvda",
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=nvda&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "ccl stock",
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=ccl+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nvda stock",
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=nvda+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "tesla stock",
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=tesla+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "tsla",
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=tsla&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "ual stock",
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=ual+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aapl",
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=aapl&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aapl stock",
+                                    "value": 5,
+                                    "formattedValue": "5",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=aapl+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "tsla stock",
+                                    "value": 5,
+                                    "formattedValue": "5",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=tsla+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "amd stock",
+                                    "value": 5,
+                                    "formattedValue": "5",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=amd+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "dal stock",
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=dal+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aal stock price today",
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=aal+stock+price+today&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "f stock",
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=f+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "tesla stock price",
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=tesla+stock+price&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "dow",
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=dow&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nvidia stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=nvidia+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "amc stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=amc+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nio stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=nio+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "pltr stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=pltr+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "ba stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=ba+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "amzn stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=amzn+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "apple stock",
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=apple+stock&date=today+3-m&geo=US"
+                                }
+                            ]
+                        },
+                        {
+                            "rankedKeyword": [
+                                {
+                                    "query": "djt stock",
+                                    "value": 66800,
+                                    "formattedValue": "Breakout",
+                                    "link": "/trends/explore?q=djt+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "hofv stock",
+                                    "value": 700,
+                                    "formattedValue": "+700%",
+                                    "link": "/trends/explore?q=hofv+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "gme stock",
+                                    "value": 400,
+                                    "formattedValue": "+400%",
+                                    "link": "/trends/explore?q=gme+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "fisker stock",
+                                    "value": 300,
+                                    "formattedValue": "+300%",
+                                    "link": "/trends/explore?q=fisker+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "arm stock",
+                                    "value": 250,
+                                    "formattedValue": "+250%",
+                                    "link": "/trends/explore?q=arm+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "path stock",
+                                    "value": 200,
+                                    "formattedValue": "+200%",
+                                    "link": "/trends/explore?q=path+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "kss stock",
+                                    "value": 190,
+                                    "formattedValue": "+190%",
+                                    "link": "/trends/explore?q=kss+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "gamestop stock",
+                                    "value": 150,
+                                    "formattedValue": "+150%",
+                                    "link": "/trends/explore?q=gamestop+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "hood stock",
+                                    "value": 130,
+                                    "formattedValue": "+130%",
+                                    "link": "/trends/explore?q=hood+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "wba stock",
+                                    "value": 80,
+                                    "formattedValue": "+80%",
+                                    "link": "/trends/explore?q=wba+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aal premarket",
+                                    "value": 80,
+                                    "formattedValue": "+80%",
+                                    "link": "/trends/explore?q=aal+premarket&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "aal share price",
+                                    "value": 60,
+                                    "formattedValue": "+60%",
+                                    "link": "/trends/explore?q=aal+share+price&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nvidia stock",
+                                    "value": 50,
+                                    "formattedValue": "+50%",
+                                    "link": "/trends/explore?q=nvidia+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "apple stock",
+                                    "value": 50,
+                                    "formattedValue": "+50%",
+                                    "link": "/trends/explore?q=apple+stock&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "nvda",
+                                    "value": 50,
+                                    "formattedValue": "+50%",
+                                    "link": "/trends/explore?q=nvda&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "dow futures",
+                                    "value": 50,
+                                    "formattedValue": "+50%",
+                                    "link": "/trends/explore?q=dow+futures&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "query": "soun stock",
+                                    "value": 40,
+                                    "formattedValue": "+40%",
+                                    "link": "/trends/explore?q=soun+stock&date=today+3-m&geo=US"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "title": "Related queries",
+            "type": "fe_related_searches"
+        },
+        {
+            "id": "RELATED_TOPICS",
+            "data": {
+                "default": {
+                    "rankedList": [
+                        {
+                            "rankedKeyword": [
+                                {
+                                    "topic": {
+                                        "mid": "/g/1ylhlpyzj",
+                                        "title": "NASDAQ:AAL",
+                                        "type": "Topic"
+                                    },
+                                    "value": 100,
+                                    "formattedValue": "100",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/1ylhlpyzj&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/077mq",
+                                        "title": "Stock",
+                                        "type": "Topic"
+                                    },
+                                    "value": 75,
+                                    "formattedValue": "75",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/077mq&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/01d_1l",
+                                        "title": "Price",
+                                        "type": "Topic"
+                                    },
+                                    "value": 25,
+                                    "formattedValue": "25",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/01d_1l&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/01xm4b",
+                                        "title": "Share price",
+                                        "type": "Topic"
+                                    },
+                                    "value": 22,
+                                    "formattedValue": "22",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/01xm4b&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bc5r2g1f",
+                                        "title": "American Airlines",
+                                        "type": "Topic"
+                                    },
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11bc5r2g1f&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0z07",
+                                        "title": "American Airlines",
+                                        "type": "Airline"
+                                    },
+                                    "value": 7,
+                                    "formattedValue": "7",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0z07&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0dr90d",
+                                        "title": "Tesla",
+                                        "type": "Automotive company"
+                                    },
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0dr90d&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bc6n2sw6",
+                                        "title": "Tesla",
+                                        "type": "Topic"
+                                    },
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11bc6n2sw6&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zllzd",
+                                        "title": "NASDAQ:NVDA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/07zllzd&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/01xy0r5",
+                                        "title": "NYSE:CCL",
+                                        "type": "Topic"
+                                    },
+                                    "value": 6,
+                                    "formattedValue": "6",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/01xy0r5&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/1hbvrz8jr",
+                                        "title": "NASDAQ:UAL",
+                                        "type": "Topic"
+                                    },
+                                    "value": 5,
+                                    "formattedValue": "5",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/1hbvrz8jr&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zmbvf",
+                                        "title": "NASDAQ:AAPL",
+                                        "type": "Topic"
+                                    },
+                                    "value": 5,
+                                    "formattedValue": "5",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/07zmbvf&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0ckhqlx",
+                                        "title": "NASDAQ:TSLA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0ckhqlx&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0z64",
+                                        "title": "AMD",
+                                        "type": "IT corporation"
+                                    },
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0z64&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11byn34kxd",
+                                        "title": "AMD",
+                                        "type": "Topic"
+                                    },
+                                    "value": 4,
+                                    "formattedValue": "4",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11byn34kxd&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zl9yz",
+                                        "title": "NYSE:DAL",
+                                        "type": "Topic"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/07zl9yz&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0cqyw",
+                                        "title": "Dow Jones Industrial Average",
+                                        "type": "Stock market index"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0cqyw&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/09rh_",
+                                        "title": "Nvidia",
+                                        "type": "Software company"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/09rh_&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bw2175jd",
+                                        "title": "NVIDIA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11bw2175jd&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11l9rv6gfw",
+                                        "title": "NYSE:PLTR",
+                                        "type": "Topic"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11l9rv6gfw&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zm0nx",
+                                        "title": "NYSE:F",
+                                        "type": "Topic"
+                                    },
+                                    "value": 3,
+                                    "formattedValue": "3",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/07zm0nx&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/1ym82y1nc",
+                                        "title": "NYSE:AMC",
+                                        "type": "Topic"
+                                    },
+                                    "value": 2,
+                                    "formattedValue": "2",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/1ym82y1nc&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11f9_gl16q",
+                                        "title": "NYSE:NIO",
+                                        "type": "Topic"
+                                    },
+                                    "value": 2,
+                                    "formattedValue": "2",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/g/11f9_gl16q&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0my5",
+                                        "title": "American Sign Language",
+                                        "type": "Sign language"
+                                    },
+                                    "value": 2,
+                                    "formattedValue": "2",
+                                    "hasData": true,
+                                    "link": "/trends/explore?q=/m/0my5&date=today+3-m&geo=US"
+                                }
+                            ]
+                        },
+                        {
+                            "rankedKeyword": [
+                                {
+                                    "topic": {
+                                        "mid": "/g/11q96mbgm0",
+                                        "title": "NASDAQ:DJT",
+                                        "type": "Topic"
+                                    },
+                                    "value": 63800,
+                                    "formattedValue": "Breakout",
+                                    "link": "/trends/explore?q=/g/11q96mbgm0&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zltbw",
+                                        "title": "NYSE:GME",
+                                        "type": "Topic"
+                                    },
+                                    "value": 350,
+                                    "formattedValue": "+350%",
+                                    "link": "/trends/explore?q=/m/07zltbw&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11byn34kxd",
+                                        "title": "AMD",
+                                        "type": "Topic"
+                                    },
+                                    "value": 350,
+                                    "formattedValue": "+350%",
+                                    "link": "/trends/explore?q=/g/11byn34kxd&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bwcf511s",
+                                        "title": "Alphabet Inc.",
+                                        "type": "Multinational conglomerate company"
+                                    },
+                                    "value": 250,
+                                    "formattedValue": "+250%",
+                                    "link": "/trends/explore?q=/g/11bwcf511s&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/03p1jb6",
+                                        "title": "Arm",
+                                        "type": "Semiconductor company"
+                                    },
+                                    "value": 180,
+                                    "formattedValue": "+180%",
+                                    "link": "/trends/explore?q=/m/03p1jb6&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0r4jw_t",
+                                        "title": "American Airlines Group",
+                                        "type": "Airline"
+                                    },
+                                    "value": 150,
+                                    "formattedValue": "+150%",
+                                    "link": "/trends/explore?q=/m/0r4jw_t&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/0sgjzry",
+                                        "title": "American Airlines",
+                                        "type": "Topic"
+                                    },
+                                    "value": 130,
+                                    "formattedValue": "+130%",
+                                    "link": "/trends/explore?q=/m/0sgjzry&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zl73y",
+                                        "title": "NYSE:CLF",
+                                        "type": "Topic"
+                                    },
+                                    "value": 120,
+                                    "formattedValue": "+120%",
+                                    "link": "/trends/explore?q=/m/07zl73y&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bc5sfz1q",
+                                        "title": "Arm",
+                                        "type": "Topic"
+                                    },
+                                    "value": 110,
+                                    "formattedValue": "+110%",
+                                    "link": "/trends/explore?q=/g/11bc5sfz1q&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/1ymzyd5q6",
+                                        "title": "Intel",
+                                        "type": "Topic"
+                                    },
+                                    "value": 100,
+                                    "formattedValue": "+100%",
+                                    "link": "/trends/explore?q=/g/1ymzyd5q6&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11c1wl07cj",
+                                        "title": "NYSE:AA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 90,
+                                    "formattedValue": "+90%",
+                                    "link": "/trends/explore?q=/g/11c1wl07cj&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11pclylmkg",
+                                        "title": "NASDAQ:RIVN",
+                                        "type": "Topic"
+                                    },
+                                    "value": 90,
+                                    "formattedValue": "+90%",
+                                    "link": "/trends/explore?q=/g/11pclylmkg&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11nxt3w09x",
+                                        "title": "NASDAQ:HOOD",
+                                        "type": "Topic"
+                                    },
+                                    "value": 60,
+                                    "formattedValue": "+60%",
+                                    "link": "/trends/explore?q=/g/11nxt3w09x&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/09rh_",
+                                        "title": "Nvidia",
+                                        "type": "Software company"
+                                    },
+                                    "value": 60,
+                                    "formattedValue": "+60%",
+                                    "link": "/trends/explore?q=/m/09rh_&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/g/11bw2175jd",
+                                        "title": "NVIDIA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 50,
+                                    "formattedValue": "+50%",
+                                    "link": "/trends/explore?q=/g/11bw2175jd&date=today+3-m&geo=US"
+                                },
+                                {
+                                    "topic": {
+                                        "mid": "/m/07zllzd",
+                                        "title": "NASDAQ:NVDA",
+                                        "type": "Topic"
+                                    },
+                                    "value": 40,
+                                    "formattedValue": "+40%",
+                                    "link": "/trends/explore?q=/m/07zllzd&date=today+3-m&geo=US"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "title": "Related topics",
+            "type": "fe_related_searches"
+        }
+    ]
+}
