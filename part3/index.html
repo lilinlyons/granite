@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event-Driven Architecture Webpage</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark shadow-5-strong fixed-top">
+    <a class="navbar-brand" href="#">EDA</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#slide1">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#slide2">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#slide3">Technologies</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#slide4">Components</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#slide5">ERD</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#slide6">News</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+    <div class="container-fluid">
+        <div id="slide1" class="slides slide1">
+
+            <h2>Event-Driven Architecture.</h2>
+        </div>
+        <div id="slide2" class="slides slide2">
+            <div class="left-content">
+            <h2>
+                About
+            </h2>
+            <p>
+                Event-driven architecture (EDA) is a software design paradigm where system behaviour is driven by the detection and
+                handling of events. EDA enables loose coupling of applications by introducing a middleman known as an event broker.
+                This architecture additionally relies on event producers, which generate events, and event consumers, which respond to
+                those events. Key technologies that support EDA include Apache Kafka, RabbitMQ, and Amazon SNS/SQS, which provide robust
+                event streaming and messaging capabilities. EDA is particularly useful in real-life applications requiring real-time
+                responsiveness and high scalability, such as financial trading systems where milliseconds matter and microservices architectures where services need to communicate
+                asynchronously and efficiently. Fundamentally, EDA recognises a meaningful change and thus distributes the data to all associated systems. EDA does not necessarily consist
+                of one programming language; it is rather a model or architecture to efficiently aid the transmission and detection of changes.
+            </p>
+            </div>
+            <div class="right-content">
+                <div>
+                    <i class="fas fa-computer icon"></i> <!-- Example FontAwesome icon -->
+                </div>
+            </div>
+        </div>
+        <div id="slide3" class="slides slide3">
+
+            <h2>Hello</h2>
+        </div>
+        <div id="slide4" class="slides slide4">
+            <h2>Key Components</h2>
+
+            <div class='grid'>
+                <div class='row'>
+                    <div class='card'>
+                        <h4>Producers</h4>
+                        <p>
+                            These are components that generate events. An event can be any significant change in state or condition, such as a user action, a message from another system, or a sensor reading. In the Hedge-Fund
+                            industry, these could be a trade that is executed or the receipt of real-time market data. The basic attributes of an event include time, source, key, header, metadata, and payload. The producer does not
+                            need to be aware of other components in the EDA system.
+                        </p>
+
+                    </div>
+                    <div class='card'>
+                        <h4>Brokers</h4>
+                            <p>
+                                Event brokers sit between producers and consumers; it is a direct information pipeline between the event generator and consumers. Brokers are a
+                                type of middleware that can be a hardware appliance, software, or software-as-a-service. Brokers store messages as channels allowing multiple consumers to read the same message.
+                            </p>
+                    </div>
+                    <div class='card'>
+                        <h4>Consumers</h4>
+                        <p>
+                        Event consumers are components that respond to events. They perform actions based on the events they receive. Consumers can also be producers if their actions generate new events.
+                        </p>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+
+            <div id="slide5" class="slides slide5">
+                <h2>
+                    Entity Relationship Diagram
+                </h2>
+                <p>
+                    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="950" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fboard%2FF7DCfk7Myh9pBTMXovN9Hs%2FUntitled%3Fnode-id%3D0-1%26t%3DkB0XAnCAQNM78DBp-1" allowfullscreen></iframe>
+                </p>
+            </div>
+
+        <div id="slide6" class="slides slide6">
+            <h2>News</h2>
+            <div class="grid">
+                <div class="row w-100 d-flex justify-content-center">
+                    <div class="col-md-4 d-flex">
+                        <div class="card shadow border-light mx-auto w-75">
+                            <img src="data:image/png;base64,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" class="card-img-top rounded-9" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Finalto Selects Solace to Upgrade Trading Platform</h5>
+                                <p class="card-text">
+                                    Learn how Finalto is revolutionizing financial trading with Solace's advanced event-driven architecture, ensuring high throughput, low latency, and real-time data delivery across global markets. Click to explore their transformation and strategic advantages in today's competitive landscape. </p>
+                                <a href="https://www.prnewswire.com/in/news-releases/finalto-selects-solace-to-upgrade-trading-platform-301992675.html" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-light mx-auto w-75">
+                            <img src="data:image/png;base64,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" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Event driven architecture : Overview of AWS Messaging services</h5>
+                                <p class="card-text">Comparisons of the AWS messaging services ranging from AWS Kinesis Datastream, providing real-time processing of streaming data, to Apache Kafka with its high throughput and low latency.</p>
+                                <a href="https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card border-light mx-auto w-75">
+                            <img src="https://solutionsreview.com/enterprise-resource-planning/files/2024/07/How-Event-Driven-Architecture-Can-Help-Retailers-Reset-Their-Global-Supply-Chain-Reporting.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">How Event-Driven Architecture Can Help Retailers Reset Their Global Supply Chain Reporting</h5>
+                                <p class="card-text">Discover how retailers are revolutionizing sustainability efforts through innovative event-driven technology, optimizing logistics, reducing food waste, and enhancing energy efficiency to meet ambitious ESG goals. Click to explore their cutting-edge strategies and impactful results.</p>
+                                <a href="https://solutionsreview.com/enterprise-resource-planning/how-event-driven-architecture-can-help-retailers-reset-their-global-supply-chain-reporting/" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+
+</body>
+
+<footer class="text-center text-primary fixed-bottom">
+    <div class="container p-4 pb-0">
+        <section class="mb-4">
+
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            ><i class="fa-solid fa-envelope"></i></a>
+
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            ><i class="fab fa-linkedin-in"></i
+            ></a>
+
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            ><i class="fab fa-github"></i
+            ></a>
+        </section>
+
+    </div>
+</footer>
+</html>
