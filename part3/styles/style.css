@@ -13,8 +13,9 @@
 
 
 html {
+    overflow-x: hidden;
     scroll-snap-type: y mandatory;
-    overflow-y: scroll;
+    overflow-y: auto;
     min-height: 100%;
 
 }
@@ -50,6 +51,7 @@ html {
     background-color: #ccc;
     border: 1px solid #999;
     background: linear-gradient(454deg, #051720, #030f15);
+    margin-top: 20px;
 
 }
 
@@ -107,7 +109,7 @@ html {
     background-color: #004d74 !important;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     padding: 10px;
-    margin: 5px;
+    /*margin: 5px;*/
     text-align: center;
     color: #ffffff;
     border-radius: 10%!important;
@@ -130,7 +132,7 @@ html {
 .slide6{
     background: linear-gradient(454deg, #006da4, #004767);
     flex-direction: column;
-
+    margin-bottom: 20px;
 
 }
 
