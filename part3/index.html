@@ -24,10 +24,10 @@
                 <a class="nav-link" href="#slide2">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#slide3">Technologies</a>
+                <a class="nav-link" href="#slide3">Components</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#slide4">Components</a>
+                <a class="nav-link" href="#slide4">Technologies</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#slide5">ERD</a>
@@ -50,27 +50,25 @@
                 About
             </h2>
             <p>
-                Event-driven architecture (EDA) is a software design paradigm where system behaviour is driven by the detection and
-                handling of events. EDA enables loose coupling of applications by introducing a middleman known as an event broker.
-                This architecture additionally relies on event producers, which generate events, and event consumers, which respond to
+                Event-driven architecture (EDA) is a software design where system behaviour is based on the detection and
+                handling of events. EDA recognises a meaningful change, an <i>event</i>, and thus distributes the data to all associated systems
+                via a middleman known as a <i>broker</i>. EDA does not necessarily consist
+                of one programming language; it is rather a model or architecture to efficiently aid the transmission and detection of events.
+                This architecture additionally relies on event producers and event consumers, which respond to
                 those events. Key technologies that support EDA include Apache Kafka, RabbitMQ, and Amazon SNS/SQS, which provide robust
-                event streaming and messaging capabilities. EDA is particularly useful in real-life applications requiring real-time
+                event streaming and messaging capabilities. EDA is particularly useful in applications that require real-time
                 responsiveness and high scalability, such as financial trading systems where milliseconds matter and microservices architectures where services need to communicate
-                asynchronously and efficiently. Fundamentally, EDA recognises a meaningful change and thus distributes the data to all associated systems. EDA does not necessarily consist
-                of one programming language; it is rather a model or architecture to efficiently aid the transmission and detection of changes.
+                asynchronously and efficiently.
             </p>
             </div>
             <div class="right-content">
                 <div>
-                    <i class="fas fa-computer icon"></i> <!-- Example FontAwesome icon -->
+                    <img src="https://t2informatik.de/en/wp-content/uploads/sites/2/2024/02/distributed-autonomous-microservices-with-event-driven-architecture.jpg" class="rounded-9" ></img>
                 </div>
             </div>
         </div>
-        <div id="slide3" class="slides slide3">
 
-            <h2>Hello</h2>
-        </div>
-        <div id="slide4" class="slides slide4">
+        <div id="slide3" class="slides slide3">
             <h2>Key Components</h2>
 
             <div class='grid'>
@@ -88,14 +86,16 @@
                         <h4>Brokers</h4>
                             <p>
                                 Event brokers sit between producers and consumers; it is a direct information pipeline between the event generator and consumers. Brokers are a
-                                type of middleware that can be a hardware appliance, software, or software-as-a-service. Brokers store messages as channels allowing multiple consumers to read the same message.
+                                type of middleware that can be a hardware appliance, software, or software-as-a-service. Brokers allow multiple consumers to be able to receive
+                                the event notifications concurrently. They typically implement a publish-subscribe messaging system where producers publish events and consumers subscribe
+                                to relevant topics.
                             </p>
                     </div>
                     <div class='card'>
                         <h4>Consumers</h4>
                         <p>
-                        Event consumers are components that respond to events. They perform actions based on the events they receive. Consumers can also be producers if their actions generate new events.
-                        </p>
+                            Event consumers (also known as sinks) are responsible for responding to incoming events by executing specific actions based on the event data they receive. These actions can range from updating data stores, communicating with customers, to initiating additional workflows within the system.
+                            Consumers operate asynchronously, meaning they can process events independently and at the same time. This improves the scalability and responsiveness of the architecture. They can store information to track event sequences  to make informed decisions based on the history of events.                        </p>
                     </div>
 
 
@@ -103,6 +103,50 @@
             </div>
         </div>
 
+        <div id="slide4" class="slides slide4">
+            <h2>Latest Technology</h2>
+            <div class="archive">
+                <article class="article">
+                    <b>Apache Cassandra</b> is an open source, distributed, NoSQL database. It is based on Staged Event-Driven Architecture, where it separates tasks
+                    into stages connected by a messaging service. Each stage has a queue and a thread pool.
+                </article>
+                <article class="article">
+                    <h4>Amazon Technologies</h4>
+                    <b>Amazon EventBridge</b> technology is used for applications that respond to events from SaaS applications,
+                    AWS services, or custom applications. Predefined schemas are used for events and aids rule creation for events ultimately
+                    filtering them before they are delivered to customers.
+                    <hr>
+                    <hr>
+                    <b>Amazon SNS</b> is recommended for applications that react to low-latency, high-throughput events published by other
+                    applications or microservices. It is also suitable for applications requiring high fanout, reaching thousands or even millions
+                    of endpoints. SNS is not dependent on the schema of the events they receive, disparate to Amazon EventBridge.
+                    <hr>
+                    <hr>
+                    <b>Amazon Simple Queue Service</b> offers a secure, durable, and available messaging service that you can use to integrate and decouple software systems and components,
+                    which is necessary for EDA.
+
+                </article>
+                <article class="article">
+                    <h3>Messaging Services</h3>
+                    <h5>Apache Kafka</h5>
+                    Regarding inter-service communication, <b>Apache Kafka</b> is a leader delivering scalability, low-latency and loose coupling. Kafka
+                    stores messages in a way that ensures data durability during system failure. This guarantees no data is lost. It is a distributed messaging
+                    system meaning when producers publish events for certain topics, consumers can subscribe to receive them. Kafka is horizontally scalable, allowing you to add more brokers to the cluster to handle increased throughput and storage requirements.
+                    <hr>
+                    <hr>
+                    <h5>RabbitMQ</h5>
+                    RabbitMQ is a widely-used open-source message broker that enables applications to communicate by sending and receiving messages in a distributed system.
+                    It plays a key role in Event-Driven Architecture (EDA) by facilitating the exchange of information between different services and applications. It ensures
+                    reliable delivery of messages through features such as message acknowledgement and durable queues which protect messages from being lost in case of failure.
+                </article>
+                <article class="article">
+                    <b>Apache Flink</b> is a standalone stream processing engine. Flink addresses fault tolerance, high throughput and
+                    low latency. It can handle both bounded (limited dataset) and unbounded streams together, making it a popular tool. It also features layered API
+                    tools which gives developers flexibility in handling both common and specialised processing streams.
+                </article>
+
+            </div>
+        </div>
 
             <div id="slide5" class="slides slide5">
                 <h2>
@@ -123,7 +167,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Finalto Selects Solace to Upgrade Trading Platform</h5>
                                 <p class="card-text">
-                                    Learn how Finalto is revolutionizing financial trading with Solace's advanced event-driven architecture, ensuring high throughput, low latency, and real-time data delivery across global markets. Click to explore their transformation and strategic advantages in today's competitive landscape. </p>
+                                    With the aid of Solace's advanced event-driven architecture, Finalto is revolutionising financial trading, ensuring high throughput, low latency, and real-time data delivery across global markets. Click to explore their transformation. </p>
                                 <a href="https://www.prnewswire.com/in/news-releases/finalto-selects-solace-to-upgrade-trading-platform-301992675.html" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
                             </div>
                         </div>
@@ -133,7 +177,7 @@
                             <img src="data:image/png;base64,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" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Event driven architecture : Overview of AWS Messaging services</h5>
-                                <p class="card-text">Comparisons of the AWS messaging services ranging from AWS Kinesis Datastream, providing real-time processing of streaming data, to Apache Kafka with its high throughput and low latency.</p>
+                                <p class="card-text">Comparisons of the different messaging services in the current competitive landscape ranging from AWS Kinesis Datastream, providing real-time processing of streaming data, to Apache Kafka with its high throughput and low latency.</p>
                                 <a href="https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
                             </div>
                         </div>
@@ -143,7 +187,7 @@
                             <img src="https://solutionsreview.com/enterprise-resource-planning/files/2024/07/How-Event-Driven-Architecture-Can-Help-Retailers-Reset-Their-Global-Supply-Chain-Reporting.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">How Event-Driven Architecture Can Help Retailers Reset Their Global Supply Chain Reporting</h5>
-                                <p class="card-text">Discover how retailers are revolutionizing sustainability efforts through innovative event-driven technology, optimizing logistics, reducing food waste, and enhancing energy efficiency to meet ambitious ESG goals. Click to explore their cutting-edge strategies and impactful results.</p>
+                                <p class="card-text">Discover how retailers are striving to meet their ESG goals by revolutionising sustainability efforts in reducing food waste and enhancing energy efficiency. Click to explore their cutting-edge strategies and to see the results.</p>
                                 <a href="https://solutionsreview.com/enterprise-resource-planning/how-event-driven-architecture-can-help-retailers-reset-their-global-supply-chain-reporting/" class="btn btn-outline-light btn-floating m-1" role="button">Visit Site</a>
                             </div>
                         </div>
@@ -160,14 +204,14 @@
     <div class="container p-4 pb-0">
         <section class="mb-4">
 
-            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="mailto: lilinlyons@gmail.com" role="button"
             ><i class="fa-solid fa-envelope"></i></a>
 
-            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/lili-lyons-178412190/" role="button"
             ><i class="fab fa-linkedin-in"></i
             ></a>
 
-            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+            <a data-mdb-ripple-init class="btn btn-outline-light btn-floating m-1" href="https://github.com/lilinlyons/granite" role="button"
             ><i class="fab fa-github"></i
             ></a>
         </section>
